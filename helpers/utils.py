@@ -1,4 +1,4 @@
-"""Module providing a function printing python version."""
+"""Module with utils functions."""
 import random
 
 INF = float('inf')

@@ -1,4 +1,4 @@
-"""Module providing a function printing python version."""
+"""Performance Test Module."""
 
 import cProfile
 import argparse

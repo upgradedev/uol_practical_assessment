@@ -1,4 +1,4 @@
-"""Module providing a function printing python version."""
+"""Module with floyd's recursive function."""
 
 def floyd_recursive(graph, n, memo=None):
     """
